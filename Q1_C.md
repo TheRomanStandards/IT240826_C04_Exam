@@ -10,4 +10,5 @@
   (Very good site)
   
   [https://www.indeed.com/career-advice/career-development/excel-formula-errors]
-  (scroll down at the begining, after clicking "I am not a robot" to find the list
+ 
+  (scroll down at the begining, after clicking "I am not a robot" to find the list)
